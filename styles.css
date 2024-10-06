@@ -42,6 +42,7 @@ h1, h2 {
     font-family: "Young Serif", serif;
     font-weight: 400;
     margin-bottom: 24px;
+    overflow-wrap: break-word;
 }
 
 h3 {
@@ -50,6 +51,7 @@ h3 {
     font-size: 1.25rem;
     font-weight: 600;
     margin-bottom: 16px;
+    overflow-wrap: break-word;
 }
 
 img {
@@ -80,6 +82,7 @@ li, p, td {
     font-family: "Outfit", sans-serif;
     font-size: 1rem;
     font-weight: 400;
+    overflow-wrap: break-word;
 }
 
 li {
