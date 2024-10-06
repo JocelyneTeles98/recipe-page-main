@@ -63,7 +63,8 @@ img {
     display: flex;
     flex-direction: column;
     gap: 32px;
-    padding: 40px 32px;
+    margin-top: 40px;
+    padding: 0px 32px;
 }
 
 .preparation-time {
@@ -112,7 +113,7 @@ tr:last-child td {
 
 ol, ul {
     margin: 0;
-    padding: 1rem;
+    padding: 1.3rem;
 }
 
 /*Tablet styles*/
@@ -136,7 +137,7 @@ ol, ul {
     }
 
     .text-placement {
-        margin-top: 40px;
+        padding: 0;
     }
 }
 
