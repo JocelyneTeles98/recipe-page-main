@@ -31,6 +31,7 @@ body {
 h1 {
     color: #312E2C;
     font-size: 2.5rem;
+    margin-bottom: 24px;
 }
 
 h2 {
@@ -41,7 +42,6 @@ h2 {
 h1, h2 {
     font-family: "Young Serif", serif;
     font-weight: 400;
-    margin-bottom: 24px;
     overflow-wrap: break-word;
 }
 
